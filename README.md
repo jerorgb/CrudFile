@@ -6,10 +6,10 @@ En este programa se encuentran el paquete del proyecto y sus clases
 El programa crea y almacena "jugadores" en un arraylist y en un archivo
 formato txt, puede hacer las actividades correspondientes a un CRUD
 
-Create // Crear
-Read // Leer
-Update // Actualizar
-Delete // Eliminar
+Create // Crear\n
+Read // Leer\n
+Update // Actualizar\n
+Delete // Eliminar\n
 
 Pdt: el archivo txt se genera en la carpeta del proyecto y se da a conocer
 como: "Data.txt"
